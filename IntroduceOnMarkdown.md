@@ -102,7 +102,7 @@ n个...
 
 `![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
 u=702257389,1274025419&fm=27&gp=0.jpg "区块链")`   
-效果如下：
+效果如下：   
 ![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
 u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
 
@@ -253,11 +253,12 @@ st->op->cond
 cond(yes)->e
 cond(no)->op
 &```
-效果如下：
-![](https://upload-images.jianshu.io/upload_images/6860761-9d9524ba31047696.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/751/format/webp)
+效果如下： 
+![](https://upload-images.jianshu.io/upload_images/6860761-9d9524ba31047696.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/751/format/webp)   
 
-！！转自 [简书](https://www.jianshu.com/p/191d1e21f7ed)
------
+！！转自 [简书](https://www.jianshu.com/p/191d1e21f7ed)   
+
+***
 
 ### 拓展阅读   
 
