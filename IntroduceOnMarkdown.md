@@ -103,8 +103,7 @@ n个...
 `![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
 u=702257389,1274025419&fm=27&gp=0.jpg "区块链")`   
 效果如下：   
-![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg)
+![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg)
 
 blockchain   
 上传本地图片直接点击导航栏的图片标志，选择图片即可
@@ -240,10 +239,10 @@ title可加可不加
 
 代码块    
 (```)
-function fun(){
-  echo "这是一句非常牛逼的代码";
-}
-fun();
+	function fun(){
+  		echo "这是一句非常牛逼的代码";
+	}
+	fun();
 (```)    
 
 十、流程图    
