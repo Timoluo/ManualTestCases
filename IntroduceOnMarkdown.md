@@ -244,21 +244,23 @@ function fun(){
 fun();
 
 十、流程图   
-```flow
-st=>start: 开始
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-&```
-效果如下： 
-![](https://upload-images.jianshu.io/upload_images/6860761-9d9524ba31047696.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/751/format/webp)   
+`flow
+st=>start: 开始   
+op=>operation: My Operation   
+cond=>condition: Yes or No?   
+e=>end   
+st->op->cond   
+cond(yes)->e   
+cond(no)->op   
+&`     
 
-！！转自 [简书](https://www.jianshu.com/p/191d1e21f7ed)   
+效果如下：  
+![](https://upload-images.jianshu.io/upload_images/6860761-9d9524ba31047696.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/751/format/webp)     
 
-***
+
+>> 转自 [简书](https://www.jianshu.com/p/191d1e21f7ed)   
+
+***  
 
 ### 拓展阅读   
 
