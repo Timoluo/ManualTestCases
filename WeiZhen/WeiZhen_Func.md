@@ -23,7 +23,7 @@
             3. 地域分布图正常显示   
             4. 终端详情的正常显示
             
-            ![](https://raw.githubusercontent.com/Timoluo/ManualTestCases/dev/timo/WeiZhen/screenshot/wz_gailan_1.png)
+            ![](screenshot/wz_gailan_1.png)
 *****
 
 #### 2. 
