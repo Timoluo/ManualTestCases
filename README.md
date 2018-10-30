@@ -1,5 +1,13 @@
 # ManualTestCases
 
+
+### Make the first step on Markdown
+
+The markdaown file "IntroduceOnMarkdown.md"  share some basic usage on Markdown signal. If you are new to Markdown, you can take a dozon of minutes to get familiar with it before starting your work on this repository.
+
+
+***
+
 ### Maintain the basic TC
 
 This repository record the manual test cases on WangCai platform.
