@@ -8,7 +8,7 @@
     Role：系统管理员    
     Main Page：概览    
     Location:    
-    Funture： WorkFlow   
+    Feature： WorkFlow   
     Code:   
     Steps：
            1. 选择有效账户在数据有效的时间段（测试环境下，是7月的弹个车PDB正式投放）对应的各个对象（账户/计划/单元/创意）；
@@ -23,6 +23,7 @@
             3. 地域分布图正常显示   
             4. 终端详情的正常显示
             
+            ![](https://raw.githubusercontent.com/Timoluo/ManualTestCases/dev/timo/WeiZhen/screenshot/wz_gailan_1.png)
 *****
 
 #### 2. 
